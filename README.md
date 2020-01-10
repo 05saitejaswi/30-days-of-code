@@ -1,1 +1,1 @@
-# tusk-c
+# HACKER RANK
